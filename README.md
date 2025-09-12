@@ -1,4 +1,7 @@
 # Echo Circuit 2019 Campaign Analysis
+
+> For more of my projects and data journey, visit my [Tableau Public](https:) for an Emergency Room Dashboard with  .
+
 Table of Contents
 
 - [Project Background](#project-background)
@@ -8,11 +11,11 @@ Table of Contents
 
 ## Project Background
 
-Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling parts and electronic components for common home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationally. Whilst in August, a similar budget for promotion was spent but targeted at the Greater London and West Midlands regions.
+Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for common home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationally. Whilst in August, a similar budget for promotion was spent but targeted at the Greater London and West Midlands regions.
 
-The business migrated historical data over to a new CRM system at the end of February, and have been tracking orders in this system ever since.  There is some mistrust of the data within the organisation, and several users have expressed concern over its quality.
+I'm partnering with the Head of Operations to extract insights and deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams.
 
-I'm partnering with the Head of Operations to extract insights from the 2019 promotional campaigns and regional expansion to deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams. As well as to suggest actionable improvements to ensure data integrity.
+**Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also find errors and suggest fixes.
 
 ## Executive Summary
 
