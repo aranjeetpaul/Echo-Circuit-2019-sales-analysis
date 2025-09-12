@@ -12,7 +12,7 @@ Echo Circuit, an emerging e-commerce company launched in North West England, spe
 
 The business migrated historical data over to a new CRM system at the end of February, and have been tracking orders in this system ever since.  There is some mistrust of the data within the organisation, and several users have expressed concern over its quality.
 
-I'm partnering with the Head of Operations to extract insights from the 2019 promotional campaigns and regional expansion to deliver recommendations oncampaign timing and targeting to improve performance across sales, product, and marketing teams. As well as to suggest actionable improvements to ensure data integrity.
+I'm partnering with the Head of Operations to extract insights from the 2019 promotional campaigns and regional expansion to deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams. As well as to suggest actionable improvements to ensure data integrity.
 
 ## Executive Summary
 
@@ -27,5 +27,14 @@ I'm partnering with the Head of Operations to extract insights from the 2019 pro
 ### Regional Analysis
 
 ## Key Insisghts
+
+- Nationwide expansion had a considerable effect
+- November is by far the most successful month (no discount purchases)
+- On average approx. £2,000/month (no discount purchases)
+- Nationwide promotions need time to take effect
+- Summer Sale was far more successful than Spring Clean – targeted promotions are far more effective
+- Greater London slightly more responsive to Summer Sale than West Midlands
+- North West seems most responsive to promotions – a North West targeted campaign may be successful
+
 
 ## Recommendations
