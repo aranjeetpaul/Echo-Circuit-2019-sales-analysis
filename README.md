@@ -26,7 +26,11 @@ I'm partnering with the Head of Operations to extract insights from the 2019 pro
 
 ### Regional Analysis
 
-## Key Insisghts
+### Loyalty Program Performance
+
+### Data Integrity (??Maybe remove and put in own subheader, remember to remove from project backgrounds, and change description??)
+
+## Key Insisghts (??Maybe remove and just put points in Executie summry at end of project??)
 
 - Nationwide expansion had a considerable effect
 - November is by far the most successful month (no discount purchases)
