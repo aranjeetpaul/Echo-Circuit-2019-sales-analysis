@@ -28,7 +28,7 @@ I'm partnering with the Head of Operations to extract insights from the 2019 pro
 
 ### Loyalty Program Performance
 
-### Data Integrity (??Maybe remove and put in own subheader, remember to remove from project backgrounds, and change description??)
+### Data Integrity (??Maybe remove and put in own subheader, remember to remove from project background and change repo description??)
 
 ## Key Insisghts (??Maybe remove and just put points in Executie summry at end of project??)
 
