@@ -1,6 +1,6 @@
 # Echo Circuit 2019 Campaign Analysis
 
-> For more of my projects and data journey, visit my [Tableau Public](https:) for an Emergency Room Dashboard with  .
+> For more of my projects and data journey, visit my [Tableau Public](https:) for an Emergency Room Dashboard with....  .
 
 Table of Contents
 
@@ -11,7 +11,7 @@ Table of Contents
 
 ## Project Background
 
-Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationally. Whilst in August, a similar budget for promotion was spent but targeted at the Greater London and West Midlands regions.
+Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for promotion was spent but targeted at the Greater London and West Midlands regions.
 
 I'm partnering with the Head of Operations to extract insights and deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams.
 
