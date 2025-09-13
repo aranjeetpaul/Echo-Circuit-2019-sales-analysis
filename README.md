@@ -2,7 +2,7 @@
 
 > For more of my projects and data journey, visit my [Tableau Public](https:) for an Emergency Room Dashboard with....  .
 
-# Table of Contents
+## Table of Contents
 
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
