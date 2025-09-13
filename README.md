@@ -11,6 +11,7 @@
   - [Regional Trends](#regional-trends)
   - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
   - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
+  - [Loyalty Program Performance](#loyalty-program-performance)
 
 ---
 
