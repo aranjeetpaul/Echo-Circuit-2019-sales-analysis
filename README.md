@@ -104,7 +104,7 @@ Data migration issues can be improved by:
 
 ## Appendix
 
-- See the raw and cleaned data in the [Data](Exploration/) folder.
+- See the raw and cleaned data in the [Data](Data) folder.
 - See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
 - See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
 - For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
