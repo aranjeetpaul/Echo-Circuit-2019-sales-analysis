@@ -75,5 +75,16 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 ## Data Integrity
 
 ### Issues
+- Duplicate records exist.
+![DuplicateRecords](Visualisations/DuplicateRecords.PNG)
+
+- Multiple transactions have the same transaction ID.
+![DuplicateTransID](Visualisations/DuplicateTransID.PNG)
+
+- Most Loyalty ID’s for January and February are floats whereas all Loyalty ID's after February are integers. Suggesting January and February Records were corrupted during migration.
+![UnusualLoyaltyID](Visualisations/UnusualLoyaltyID.PNG)
+
+- There exists records where a Loyalty ID exists but the Loyalty column is listed as 'N'. 60% of which occur in January and February. Again, suggesting January and February Records were corrupted during migration.
+![LoyaltyIDNoLoyalty](Visualisations/LoyaltyIDNoLoyalty.PNG)
 
 ### Improvements
