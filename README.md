@@ -1,6 +1,6 @@
 # Echo Circuit 2019 Campaign Analysis
 
-> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:).
+> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:)!
 
 ## Table of Contents
 
@@ -106,7 +106,7 @@ Data migration issues can be improved by:
 ## Appendix
 
 - See the raw and cleaned data in the [Data](Data/) folder.
-- See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
+- See SAS/SQL code used to examine and clean the data in the [Data Cleaning](Data Cleaning.sas).
 - See the visualizations used in this README.md in the [Visualisations](Visualisations/) folder.
 
-> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:).
+> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:)!
