@@ -7,6 +7,8 @@
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
 - [Insights Deep-Dive](#insights-deep-dive)
+  - [Monthly Trends](#monthly-trends)
+  - [Regional Trends](#regional-trends)
 
 ---
 
@@ -22,24 +24,32 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ## Insights Deep-Dive
 
-### Sales Trends and Growth Rates
+### Monthly Trends
 
 - Echo Circuit averaged £2000 revenue per month for 2019.
-- Sales surge after February, with a average monthly revanue increasing by 340% (£500 to £2300).
-- Noticeable peak in November revenue (£3000) due to slightly higher than normal number of transactions (57) and AOV (£51.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
+- Sales surge after February, with a average monthly revenue increasing by 340% (£520 to £2300).
+- Noticeable peak in November revenue (£2900) due to slightly higher than normal number of transactions (57) and AOV (£51.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
 - Without Outlier months (Jan, Feb, Nov) and discount purchases, monthly revenue is stable (£1900). Can expect this performance if no promotions or sales in 2020.
 - Noticeable peak in revenue for May (£3000) and August (£3500). Suggesting efficacy of the company's promotions.
 
 ![Revenue per Month](Visualisations/MonRev.PNG)
 ![Sales per Month](Visualisations/MonSales.PNG)
-![AOV per Month](Visualisations/MonAOV.PNG)
+![AOV per Month](Visualisations/MonAOV.png)
 
+### Regional Trends
+
+- Echo Circuit averaged £2200 revenue per Region for 2019.
+- The North West performed best with having the highest revenue (£5300) and extraordinarily high AOV for Spring Clean sales (£120). This is to expected as the company has operated here for the longest.
+- Other noticeable peaks in revenue are Greater London (£3500) and West Midlands (£2900). This is expected as they were the targets of Summer Sale promotion.
+- 
+
+![Revenue per Region](Visualisations/RegRev.PNG)
+![Sales per Region](Visualisations/RegSales.PNG)
+![AOV per Region](Visualisations/RegAOV.png)
 
 ### Spring Clean Sale Impact
 
 ### Summer Sale Impact
-
-### Regional Analysis
 
 ### Loyalty Program Performance
 
