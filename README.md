@@ -24,7 +24,16 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Sales Trends and Growth Rates
 
+- Echo Circuit averaged £2000 revenue per month for 2019.
+- Sales surge after February, with a average monthly revanue increasing by 340% (£500 to £2300).
+- Noticeable peak in November revenue (£3000) due to slightly higher than normal number of transactions (57) and AOV (£51.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
+- Without Outlier months (Jan, Feb, Nov) and discount purchases, monthly revenue is stable (£1900). Can expect this performance is no promotions or sales in 2020.
+- 
+
 ![Revenue per Month](Visualisations/MonRev.PNG)
+![Sales per Month](Visualisations/MonSales.PNG)
+![AOV per Month](Visualisations/MonAOV.PNG)
+
 
 ### Spring Clean Sale Impact
 
