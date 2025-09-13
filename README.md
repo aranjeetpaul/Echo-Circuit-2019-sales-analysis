@@ -15,7 +15,7 @@
  - [Recommendations](#recommendations)
  - [Data Integrity](#data-integrity)
    - [Issues](#issues)
-   - [Improvements](#improvements)
+   - [Solutions & Improvements](#solutions-&-improvements)
 
 ---
 
@@ -87,4 +87,24 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - There exists records where a **`loyalty_id`** exists but the **`loyalty`** column is listed as 'N'. 60% of which occur in January and February. Again, suggesting January and February Records were corrupted during migration.
 ![LoyaltyIDNoLoyalty](Visualisations/LoyaltyIDNoLoyalty.PNG)
 
-### Improvements
+### Solutions & Improvements
+
+
+
+Data migration issues can be improved by:
+- Using Primary and Foreign Key constraints to ensure data integrity.
+- Using Data Stewards – trusted experts to over see planning and implementation of migration.
+- Using “migration simulations” – test migration on subset of data first.
+- Validating data before and after migration.
+- Using clear user interface for customers to avoid human error
+- Promoting a data driven culture – internal training, guidelines and best practices training for all employees.
+- Investigate failures’ root cause (human error, too many data sources etc.)
+
+---
+
+## Appendix
+
+- See the raw data and my cleaning, analysis, and pivot tables in the [Excel workbook](Exploration/bytex_ecommerce_analysis.xlsx).
+- See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
+- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
+- For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
