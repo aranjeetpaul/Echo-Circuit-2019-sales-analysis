@@ -1,6 +1,6 @@
 # Echo Circuit 2019 Campaign Analysis
 
-> For more of my projects and data journey, visit my [Tableau Public](https:) for an Emergency Room Dashboard with....  .
+> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:).
 
 ## Table of Contents
 
@@ -12,10 +12,11 @@
   - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
   - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
   - [Loyalty Program Performance](#loyalty-program-performance)
- - [Recommendations](#recommendations)
- - [Data Integrity](#data-integrity)
-   - [Issues](#issues)
-   - [Solutions & Improvements](#solutions--improvements)
+- [Recommendations](#recommendations)
+- [Data Integrity](#data-integrity)
+  - [Issues](#issues)
+  - [Solutions & Improvements](#solutions--improvements)
+- [Appendix](#appendix)
 
 ---
 
@@ -104,7 +105,8 @@ Data migration issues can be improved by:
 
 ## Appendix
 
-- See the raw and cleaned data in the [Data](Data) folder.
+- See the raw and cleaned data in the [Data](Data/) folder.
 - See my SQL queries in the [SQL file](Exploration/ecommerce_exploration.sql).
-- See the notebook for data cleaning, visualization, and analysis in the [Python Notebook](Exploration/ecommerce_analysis.ipynb).
-- For more of my projects and data journey, visit my [portfolio website and reach out](https://ruizdelcarmen.me/)!
+- See the visualizations used in this README.md in the [Visualisations](Visualisations/) folder.
+
+> For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:).
