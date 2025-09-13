@@ -12,6 +12,10 @@
   - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
   - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
   - [Loyalty Program Performance](#loyalty-program-performance)
+ - [Recommendations](#recommendations)
+ - [Data Integrity](#data-integrity)
+   - [Issues](#issues)
+   - [Improvements](#improvements)
 
 ---
 
@@ -52,7 +56,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Spring Clean Promotion Impact
 
-### Summer Promotion Impact
+### Summer Sale Promotion Impact
 
 ### Loyalty Program Performance
 
@@ -68,8 +72,8 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ## Recommendations
 
-## Data Integrity (??Maybe remove and put in own subheader, remember to remove from project background and change repo description??)
+## Data Integrity
 
-### Data Integrity Issues
+### Issues
 
-### Data Integrity Improvements
+### Improvements
