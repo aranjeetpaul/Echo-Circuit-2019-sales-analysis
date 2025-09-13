@@ -56,8 +56,6 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Loyalty Program Performance
 
-### Data Integrity (??Maybe remove and put in own subheader, remember to remove from project background and change repo description??)
-
 ## Key Insisghts (??Maybe remove and just put points in Executie summry at end of project??)
 
 - Nationwide expansion had a considerable effect
@@ -68,5 +66,10 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Greater London slightly more responsive to Summer Sale than West Midlands
 - North West seems most responsive to promotions – a North West targeted campaign may be successful
 
-
 ## Recommendations
+
+## Data Integrity (??Maybe remove and put in own subheader, remember to remove from project background and change repo description??)
+
+### Data Integrity Issues
+
+### Data Integrity Improvements
