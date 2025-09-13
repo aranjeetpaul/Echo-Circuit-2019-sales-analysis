@@ -9,6 +9,8 @@
 - [Insights Deep-Dive](#insights-deep-dive)
   - [Monthly Trends](#monthly-trends)
   - [Regional Trends](#regional-trends)
+  - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
+  - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
 
 ---
 
@@ -47,9 +49,9 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 ![Sales per Region](Visualisations/RegSales.PNG)
 ![AOV per Region](Visualisations/RegAOV.png)
 
-### Spring Clean Sale Impact
+### Spring Clean Promotion Impact
 
-### Summer Sale Impact
+### Summer Promotion Impact
 
 ### Loyalty Program Performance
 
