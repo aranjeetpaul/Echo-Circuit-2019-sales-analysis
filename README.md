@@ -29,6 +29,14 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ## Executive Summary
 
+- Nationwide expansion had a considerable effect
+- November is by far the most successful month (no discount purchases)
+- On average approx. £2,000/month (no discount purchases)
+- Nationwide promotions need time to take effect
+- Summer Sale was far more successful than Spring Clean – targeted promotions are far more effective
+- Greater London slightly more responsive to Summer Sale than West Midlands
+- North West seems most responsive to promotions – a North West targeted campaign may be successful
+
 ## Insights Deep-Dive
 
 ### Monthly Trends
@@ -60,17 +68,9 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Loyalty Program Performance
 
-## Key Insisghts (??Maybe remove and just put points in Executie summry at end of project??)
-
-- Nationwide expansion had a considerable effect
-- November is by far the most successful month (no discount purchases)
-- On average approx. £2,000/month (no discount purchases)
-- Nationwide promotions need time to take effect
-- Summer Sale was far more successful than Spring Clean – targeted promotions are far more effective
-- Greater London slightly more responsive to Summer Sale than West Midlands
-- North West seems most responsive to promotions – a North West targeted campaign may be successful
 
 ## Recommendations
+
 
 ## Data Integrity
 
