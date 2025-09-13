@@ -12,7 +12,7 @@
 
 ## Project Background
 
-Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for promotion was spent but targeted at the Greater London and West Midlands regions.
+Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a strategic decision to expand into other regions in 2019.  In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions.
 
 I'm partnering with the Head of Operations to extract insights and deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams.
 
@@ -27,8 +27,8 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Echo Circuit averaged £2000 revenue per month for 2019.
 - Sales surge after February, with a average monthly revanue increasing by 340% (£500 to £2300).
 - Noticeable peak in November revenue (£3000) due to slightly higher than normal number of transactions (57) and AOV (£51.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
-- Without Outlier months (Jan, Feb, Nov) and discount purchases, monthly revenue is stable (£1900). Can expect this performance is no promotions or sales in 2020.
-- 
+- Without Outlier months (Jan, Feb, Nov) and discount purchases, monthly revenue is stable (£1900). Can expect this performance if no promotions or sales in 2020.
+- Noticeable peak in revenue for May (£3000) and August (£3500). Suggesting efficacy of the company's promotions.
 
 ![Revenue per Month](Visualisations/MonRev.PNG)
 ![Sales per Month](Visualisations/MonSales.PNG)
