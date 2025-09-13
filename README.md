@@ -23,6 +23,8 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Sales Trends and Growth Rates
 
+![Revenue per Month](Visualisations/MonRev.PNG)
+
 ### Spring Clean Sale Impact
 
 ### Summer Sale Impact
