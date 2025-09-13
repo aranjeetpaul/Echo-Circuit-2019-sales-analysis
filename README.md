@@ -6,6 +6,7 @@ Table of Contents
 
 - [Project Background](#project-background)
 - [Executive Summary](#executive-summary)
+- [Insights Deep-Dive](#insights-deep-dive)
 
 ---
 
@@ -19,7 +20,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ## Executive Summary
 
-## Insight Deep-Dive
+## Insights Deep-Dive
 
 ### Sales Trends and Growth Rates
 
