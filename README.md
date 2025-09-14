@@ -92,7 +92,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 Data Cleaning:
 - Duplicate records were removed.
-- Duplicate **`trans_id`**'s were kept as they seem to be genuiely distinct transaction but an error caused duplication.
+- Duplicate **`trans_id`**'s were kept as they seem to be genuiely distinct transactions but an error caused duplication.
 - Unfortunatley, the issues with **`loyalty_id`** and **`loyalty`** columns can't be fixed. To remedy this I will need to discuss with stakeholders and have access to data before data migration. For the time being, I will assume **`loyalty_id`**'s aren't corrupted and trust the **`loyalty`** status as they are.
 
 Data migration issues can be improved by:
