@@ -11,7 +11,7 @@
   - [Regional Trends](#regional-trends)
   - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
   - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
-  - [Loyalty Program Performance](#loyalty-program-performance)
+  - [Loyalty Scheme Performance](#loyalty-scheme-performance)
 - [Recommendations](#recommendations)
 - [Data Integrity](#data-integrity)
   - [Issues](#issues)
@@ -79,7 +79,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Noticeable peaks in Summer Sale revenue are West Midlands (£330, 1% of annual revenue) and Greater London (£300, 1% of annual revenue). This is to be expected as these were the target regions of the Summer Sale promotion.
 - West Midlands was very responsive to promotion by generating £330 (11% of West Midlands revenue). This is to be expected as the West Midlands was a target region of the Summer Sale promotion.
 
-### Loyalty Program Performance
+### Loyalty Scheme Performance
 
 
 
