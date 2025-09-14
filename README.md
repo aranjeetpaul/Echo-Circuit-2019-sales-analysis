@@ -24,7 +24,7 @@
 
 Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a decision to promote the company in other regions in 2019.  There strategy was: In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions.
 
-I'm partnering with the Head of Operations to extract insights and deliver recommendations on campaign timing and targeting to improve performance across sales, product, and marketing teams.
+I'm partnering with the Head of Operations to extract insights and deliver recommendations on promotion timing and targeting to improve performance across sales, product, and marketing teams.
 
 **Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also find errors and suggest fixes.
 
@@ -36,7 +36,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Nationwide promotions need time to take effect
 - Summer Sale was far more successful than Spring Clean – targeted promotions are far more effective
 - Greater London slightly more responsive to Summer Sale than West Midlands
-- North West seems most responsive to promotions – a North West targeted campaign may be successful
+- North West seems most responsive to promotions – a North West targeted promotion may be successful
 
 ## Insights Deep-Dive
 
@@ -44,7 +44,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 - Echo Circuit averaged £2000 revenue per month for 2019.
 - Sales surge after February, with a average monthly revenue increasing by 340% (£520 to £2300).
-- Noticeable peak in November revenue (£2900, 12% of annual revenue) due to slightly higher than normal number of transactions (57, 17% of annual orders) and AOV (£52.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
+- Noticeable peak in revenue for November (£2900, 12% of annual revenue) due to slightly higher than normal number of transactions (57, 17% of annual orders) and AOV (£52.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
 - Noticeable peak in revenue for May (£3000, 12% of annual revenue) and August (£3500, 15% of annual revenue). Suggesting efficacy of the company's promotions.
 - Without Outlier months (Jan, Feb, Nov) and promotional purchases, average monthly revenue is £1900. Can expect this performance if no promotions or sales in 2020.
 
@@ -55,7 +55,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 ### Regional Trends
 
 - Echo Circuit averaged £2200 revenue per Region for 2019.
-- The North West performed best with having the highest revenue (£5400, 22% of annual revenue) and extraordinarily high AOV for Spring Clean orders (£120). This is to be expected as the company has operated here for the longest time.
+- North West performed best, generating the highest revenue (£5400, 22% of annual revenue) and extraordinarily high AOV for Spring Clean orders (£120). This is to be expected as the company has operated here for the longest time.
 - Other noticeable peaks in revenue are Greater London (£3600, 15% of annual revenue) and West Midlands (£2900, 12% of annual revenue). This is expected as they were the targets of Summer Sale promotion.
 - Without Outlier regions (GL, NW, WM) and promotional purchases, average regional revenue is £1400. Can expect this performance if no promotions or sales in 2020.
 
@@ -65,9 +65,22 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Spring Clean Promotion Impact
 
+- Spring Clean promotion generated £1100 (4% of annual revenue).
+- May was far more successful than April. Suggesting nationwide promotions take time to take effect.
+- For April, the promotion generated £300 (14% of April revenue).
+- For May, the promotion generated £770 (26% of May revenue).
+- Noticeable peak in Spring Clean revenue is North West (£370, 2% of annual revenue).
+- North West was the most responsive to promotion by generating £370 (7% of North West revenue). This is to be expected as the company has operated here for the longest time.
+
 ### Summer Sale Promotion Impact
 
+- Summer Sale promotion generated £1300 (6% of annual revenue).
+- For August, the promotion generated £1300 (39% of August revenue). Suggesting sales performance is very responsive to targeted promotions.
+- Noticeable peaks in Summer Sale revenue are West Midlands (£330, 1% of annual revenue) and Greater London (£300, 1% of annual revenue). This is to be expected as these were the target regions of the Summer Sale promotion.
+- West Midlands was very responsive to promotion by generating £330 (11% of West Midlands revenue). This is to be expected as the West Midlands was a target region of the Summer Sale promotion.
+
 ### Loyalty Program Performance
+
 
 
 ## Recommendations
