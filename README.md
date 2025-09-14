@@ -1,4 +1,4 @@
-# Echo Circuit 2019 Campaign Analysis
+# Echo Circuit 2019 Sales Analysis
 
 > For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:)!
 
