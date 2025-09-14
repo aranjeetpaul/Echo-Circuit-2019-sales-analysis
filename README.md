@@ -115,7 +115,7 @@ Data migration issues can be improved by:
 - Validating data before and after migration.
 - Using clear user interface for customers to avoid human error
 - Promoting a data driven culture – internal training, guidelines and best practices training for all employees.
-- Investigate failures’ root cause (human error, too many data sources etc.)
+- Investigate failures’ root cause (human error, too many data sources etc.).
 
 ---
 
