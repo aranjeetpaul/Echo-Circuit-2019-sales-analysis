@@ -22,9 +22,9 @@
 
 ## Project Background
 
-Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a decision to promote the company in other regions in 2019.  There strategy was: In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions. The company has established a loyalty scheme giving the customer free delivery. They highly value loyalty customers as they believe they spend a greater amount per transaction.
+Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a decision to promote the company in other regions in 2019.  There strategy was: In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions. The company has established a loyalty scheme giving the customer free delivery. They highly value loyalty members as they believe they spend a greater amount per transaction.
 
-I'm partnering with the Head of Operations to extract insights and deliver recommendations on promotion timing and targeting to improve performance across sales, product, and marketing teams. As well as, provide an analysis of loyalty customers' behaviour.
+I'm partnering with the Head of Operations to extract insights and deliver recommendations on promotion timing and targeting to improve performance across sales, product, and marketing teams. As well as, provide an analysis of loyalty members' behaviour.
 
 **Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also find errors and suggest fixes.
 
@@ -123,7 +123,7 @@ Data migration issues can be improved by:
 
 - See the raw and cleaned data in the [Data](Data/) folder.
 - See SAS/SQL code used to examine and clean the data in the [Data Cleaning](Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) file.
-- See [Python Notebook](/Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb)
+- See Python Notebook used to analyse loyalty members in the [Loyalty Scheme Analysis](/Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb)
 - See the visualizations used in this README.md in the [Visualisations](Visualisations/) folder.
 
 > For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:)!
