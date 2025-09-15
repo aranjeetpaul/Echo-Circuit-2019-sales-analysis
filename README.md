@@ -81,7 +81,12 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Loyalty Scheme Performance
 
-
+|                     |   **Frequency** | **% of All Loyalty Purchases**   |
+|:--------------------|------------:|:-----------------------------|
+| **No repeat purchases** |         124 | 73.4%                        |
+| **1 repeat purchases**  |          36 | 21.3%                        |
+| **2 repeat purchases**  |           6 | 3.6%                         |
+| **3 repeat purchases**  |           3 | 1.8%                         |
 
 ## Recommendations
 
@@ -90,16 +95,30 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Issues
 - Duplicate records exist.
-![DuplicateRecords](Visualisations/DuplicateRecords.PNG)
+
+|    |   trans_id | month   | region     | discount    |   value | loyalty   |   loyalty_id |
+|---:|-----------:|:--------|:-----------|:------------|--------:|:----------|-------------:|
+|  0 |       3691 | Jan-19  | South West | No Discount |   50.93 | N         |         2.32 |
+|  1 |       3691 | Jan-19  | South West | No Discount |   50.93 | N         |         2.32 |
 
 - Multiple transactions have the same **`trans_id`**.
-![DuplicateTransID](Visualisations/DuplicateTransID.PNG)
+
+|    |   trans_id | month   | region         | discount    |   value | loyalty   |   loyalty_id |
+|---:|-----------:|:--------|:---------------|:------------|--------:|:----------|-------------:|
+|  0 |       8450 | Jul-19  | Wales          | No Discount |   46.95 | N         |          nan |
+|  1 |       8450 | Jul-19  | Greater London | No Discount |   93.8  | Y         |          102 |
 
 - Most **`loyalty_id`**’s for January and February are floats whereas all **`loyalty_id`**’s after February are integers. Suggesting January and February Records were corrupted during migration.
-![UnusualLoyaltyID](Visualisations/UnusualLoyaltyID.PNG)
+
+|    |   trans_id | month   | region        | discount    |   value | loyalty   |   loyalty_id |
+|---:|-----------:|:--------|:--------------|:------------|--------:|:----------|-------------:|
+|  0 |       3669 | Jan-19  | West Midlands | No Discount |   11.32 | Y         |         2.26 |
 
 - There exists records where a **`loyalty_id`** exists but the **`loyalty`** column is listed as 'N'. 60% of which occur in January and February. Again, suggesting January and February Records were corrupted during migration.
-![LoyaltyIDNoLoyalty](Visualisations/LoyaltyIDNoLoyalty.PNG)
+
+|    |   trans_id | month   | region     | discount    |   value | loyalty   |   loyalty_id |
+|---:|-----------:|:--------|:-----------|:------------|--------:|:----------|-------------:|
+|  0 |       9489 | Aug-19  | North West | No Discount |   16.09 | N         |           16 |
 
 ### Solutions & Improvements
 
