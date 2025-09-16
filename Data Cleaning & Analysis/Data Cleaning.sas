@@ -1,3 +1,27 @@
+/* 
+The purpose of this SAS/SQL code is to clean transaction data from Echo Circuit.
+The cleaned data will be used for my analysis of Echo Circuit's 2019 sales 
+performance. For the complete report please read the README.md from my Github 
+repository at: 
+https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md
+*/
+
+/* 
+TABLE OF CONTENTS:
+
+0. IMPORT DATA
+1. MAKE COPY OF DATA FOR CLEANING AND FIX ISSUES WITH IMPORTING
+2. STANDARDISE DATA
+3. FIND AND REMOVE UNNECESSARY COLUMNS
+4. FIX CORRUPTED COLUMNS
+5. REMOVE DUPLICATES
+6. CORRUPTIONS TO DATA
+7. RELABLE VALUES FOR CLARITY
+8. EXPORT DATA
+
+*/
+
+
 /* 0. IMPORT DATA */
 
 PROC IMPORT OUT= WORK.raw_data
@@ -21,7 +45,7 @@ DATA data;
 RUN;
 options missing = .;
 
-/* 2. STANDARDIZE DATA
+/* 2. STANDARDISE DATA */
 
 /* Change 'NULL' strings values to '' */
 DATA data;
@@ -123,8 +147,9 @@ multiple distinct transactions have the same TRANS_ID */
 PROC SORT DATA=data OUT=unique_trans_id NODUPKEY DUPOUT=duplicate_trans_id;
 by TRANS_ID;
 RUN;
-/* Luckily this problem can be ignored for our analysis */
-/* In futrue use a primary key on TRANS_ID column to ensure data integrity */
+/* Luckily this problem can be ignored for our analysis as they seem to be 
+genuiely distinct transactions but an error caused duplication */
+/* In the future, use a primary key on TRANS_ID column to ensure data integrity */
 
 /* LOYALTY and LOYALTY_ID columns are highly corrupted */
 
@@ -166,6 +191,7 @@ data integrity is not necessary. Will leave data as is */
 	- Using “Migration simulations” – test migration on subset of data first
 	- Validate data before and after migration
 	- Using clear user interface for customers
+	- use a primary key on TRANS_ID column to ensure data integrity
 	- Promoting data driven culture – internal training, guidelines 
 	and best practices
 	- Investigate failures’ root cause (human error, too many data sources etc.
