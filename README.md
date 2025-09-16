@@ -179,6 +179,6 @@ Data migration issues can be improved by:
 - See the raw and cleaned data in the [Data](Data/) folder.
 - See SAS/SQL code used to examine and clean the data in the [Data Cleaning](Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) file.
 - See Python Notebook used to analyse loyalty members in the [Loyalty Scheme Analysis](Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb) file.
-- See the visualizations used in this README.md in the [Visualisations](Visualisations/) folder. If you want the Tableau Workbook used to generate the visualisations, please see the [Analysis and Visualisation](Data%20Cleaning%20%26%20Analysis/Analysis%20and%20Visualisations.twbx) folder
+- See the visualizations used in this README.md in the [Visualisations](Visualisations/) folder. If you want the Tableau Workbook used to generate the visualisations, please see the [Analysis and Visualisation](Data%20Cleaning%20%26%20Analysis/Analysis%20and%20Visualisations.twbx) folder.
 
 > For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visting my [Tableau Public](https:) for an Emergency Room Dashboard with..... Feel free to follow me on [LinkedIn](https:)!
