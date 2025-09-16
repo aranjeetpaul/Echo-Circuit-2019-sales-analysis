@@ -22,7 +22,7 @@
 
 ## Project Background
 
-Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a decision to promote the company in other regions in 2019.  There strategy was: In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions. The company has established a loyalty scheme giving the customer free delivery. They highly value loyalty members as they believe they spend a greater amount per transaction.
+Echo Circuit, an emerging e-commerce company launched in North West England, specialising in selling electronic components for home appliances made a decision to promote the company in other regions in 2019.  There strategy was: In April and May they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent but targeted at the Greater London and West Midlands regions. The company has established a loyalty scheme giving the customer free delivery. They highly value loyalty members as they believe they spend a greater amount per transaction and are carry out many repeat purchases.
 
 I'm partnering with the Head of Operations to extract insights and deliver recommendations on promotion timing and targeting to improve performance across sales, product, and marketing teams. As well as, provide an analysis of loyalty members' behaviour.
 
@@ -30,13 +30,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ## Executive Summary
 
-- Nationwide expansion had a considerable effect
-- November is by far the most successful month (no discount purchases)
-- On average approx. £2,000/month (no discount purchases)
-- Nationwide promotions need time to take effect
-- Summer Sale was far more successful than Spring Clean – targeted promotions are far more effective
-- Greater London slightly more responsive to Summer Sale than West Midlands
-- North West seems most responsive to promotions – a North West targeted promotion may be successful
+Echo Circuit sales analysis of transcations accross 2019 shows that both Spring Clean sale and Summer Sale promotions were successful in increasing company revenue, with monthly revenue stablising at around £1900. Spring Clean sales accounted for 4% of annual revenue and Summer Sale sales accounted for 6% of annual revenue. Standout months were May, August and November accounting for 39% of annual revenue. With standout Regions: Greater London, West Midalnds and North West accounting for 49% of annual revenue. Echo Circuit can maximise 2020 revenue from a promotion during May, August or November targeted at the North West, West Midlands or East Midlands. Echo Circuit's Loyalty Scheme proves to be unsuccessful at increasing repeat purchases and AOV. Much improvement needs to be done to imporve Echo Circuit's data integrity, with great number of corrupted data and errors. Echo Circuit can benefit from personalised campaigns, tiered rewards, a referral scheme and a data-driven culture.
 
 ## Insights Deep-Dive
 
@@ -104,9 +98,9 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 ### Customer Growth and Retention
 
-- **Boost Repeat Purchases:** Target single-purchase customers with personalised re-engagement campaigns and introduce tiered rewards within the loyalty program to incentivize repeat purchases and improve retention.
+- **Boost Repeat Purchases:** Target single-purchase customers with personalised re-engagement campaigns and introduce tiered rewards within the Loyalty Scheme to incentivise repeat purchases and improve retention.
 - **Revitalize Customer Acquisition:** Expand acquisition channels to include social media, influencer partnerships, and affiliate programs. Refine Echo Circuit's messaging to re-engage past customers and attract new ones.
-- **Leverage Core Customer Insights:** Analyse behaviors and preferences of repeat customers to enhance loyalty campaigns. Introduce referral incentives to drive word-of-mouth growth and increase new customer acquisition from existing networks.
+- **Leverage Core Customer Insights:** Analyse behaviors and preferences of repeat customers to enhance Loyalty Scheme. Introduce referral incentives to drive word-of-mouth growth and increase new customer acquisition from existing networks.
 
 ---
 
@@ -128,8 +122,8 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 Analysis suggested the Summer Sale out performed Spring Clean sale. Meaning, a targeted promotion is the best course of action for 2020.
 
-- **Target Regions:** Target North West and East Midlands as they were highly responsive to promotions.
-- **Promotion Months:** There is no reason to suggest a May or August promotion won't be as successful. However, analysis suggests November promotions shows promise as this month had the highest number of orders. 
+- **Target Regions:** Target North West, West Midlands or East Midlands as they were highly responsive to promotions.
+- **Promotion Months:** There is no reason to suggest a May or August promotion won't be as successful. However, analysis suggests November promotions shows promise as this month had the highest number of orders.
 
 ---
 
