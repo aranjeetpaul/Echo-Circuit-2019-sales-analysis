@@ -11,14 +11,14 @@
 - [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#insights-deep-dive)
   - [Monthly Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#monthly-trends)
   - [Regional Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-trends)
-  - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
-  - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
-  - [Loyalty Scheme Performance](#loyalty-scheme-performance)
-- [Recommendations](#recommendations)
-- [Data Integrity](#data-integrity)
-  - [Issues](#issues)
-  - [Solutions & Improvements](#solutions--improvements)
-- [Appendix](#appendix)
+  - [Spring Clean Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#spring-clean-promotion-impact)
+  - [Summer Sale Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#summer-sale-promotion-impact)
+  - [Loyalty Scheme Performance](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-performance)
+- [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#recommendations)
+- [Data Integrity](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#data-integrity)
+  - [Issues](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#issues)
+  - [Solutions & Improvements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#solutions--improvements)
+- [Appendix](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#appendix)
 
 ---
 
@@ -178,10 +178,10 @@ Data migration issues can be improved by:
 
 ## Appendix
 
-- See the raw and cleaned data in the [Data](Data/) folder.
-- See SAS/SQL code used to examine and clean the data in the [Data Cleaning](Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) file.
-- See Python Notebook used to analyse loyalty members in the [Loyalty Scheme Analysis](Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb) file.
-- See the visualisations used in this README.md in the [Visualisations](Visualisations/) folder. If you want the Tableau Workbook used to generate the visualisations, please see the [Analysis and Visualisation](Data%20Cleaning%20%26%20Analysis/Analysis%20and%20Visualisations.twbx) folder.
+- See the raw and cleaned data in the [Data](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/tree/main/Data) folder.
+- See SAS/SQL code used to examine and clean the data in the [Data Cleaning](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) file.
+- See Python Notebook used to analyse loyalty members in the [Loyalty Scheme Analysis](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb) file.
+- See the visualisations used in this README.md in the [Visualisations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/tree/main/Visualisations) folder. If you want the Tableau Workbook used to generate the visualisations, please see the [Analysis and Visualisation](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Analysis%20and%20Visualisations.twbx) folder.
 
 > For more of my projects and Data Journey, visit the rest of my [GitHub](https://github.com/aranjeetpaul). Or to see my Data Visualisation and Storytelling skills, visit my [Tableau Public](https://public.tableau.com/app/profile/aranjeet.paul/vizzes) for an Emergency Room Dashboard with a calendar filter, static and dynamic visualisations and custom tool tips.
 >
