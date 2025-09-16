@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-- [Project Background](#project-background)
-- [Executive Summary](#executive-summary)
+- [Project Background]([#project-background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#project-background))
+- [Executive Summary]([#executive-summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#executive-summary))
 - [Insights Deep-Dive](#insights-deep-dive)
   - [Monthly Trends](#monthly-trends)
   - [Regional Trends](#regional-trends)
