@@ -8,9 +8,9 @@
 
 - [Project Background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#project-background)
 - [Executive Summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#executive-summary)
-- [Insights Deep-Dive](#insights-deep-dive)
-  - [Monthly Trends](#monthly-trends)
-  - [Regional Trends](#regional-trends)
+- [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#insights-deep-dive)
+  - [Monthly Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#monthly-trends)
+  - [Regional Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-trends)
   - [Spring Clean Promotion Impact](#spring-clean-promotion-impact)
   - [Summer Sale Promotion Impact](#summer-sale-promotion-impact)
   - [Loyalty Scheme Performance](#loyalty-scheme-performance)
