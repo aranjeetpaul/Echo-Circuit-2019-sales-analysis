@@ -26,7 +26,7 @@ Echo Circuit, an emerging e-commerce company launched in North West England, spe
 
 I'm partnering with the Head of Operations to extract insights and deliver recommendations on promotion timing and targeting to improve performance across sales, product, and marketing teams. As well as, provide an analysis of loyalty members' behaviour.
 
-**Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also find errors and suggest fixes.
+**Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also help locate errors and suggest fixes.
 
 ## Executive Summary
 
@@ -46,7 +46,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Sales surge after February, with a average monthly revenue increasing by 340% (£520 to £2300).
 - Noticeable peak in revenue for November (£2900, 12% of annual revenue) due to slightly higher than normal number of transactions (57, 17% of annual orders) and AOV (£52.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
 - Noticeable peak in revenue for May (£3000, 12% of annual revenue) and August (£3500, 15% of annual revenue). Suggesting efficacy of the company's promotions.
-- Without Outlier months (Jan, Feb, Nov) and promotional purchases, average monthly revenue is £1900. Can expect this performance if no promotions or sales in 2020.
+- Without Outlier months (Jan, Feb, Nov) and promotional purchases, average monthly revenue is £1900. Can expect this performance if no promotions in 2020.
 
 ![Revenue per Month](Visualisations/MonRev.PNG)
 ![Sales per Month](Visualisations/MonSales.PNG)
@@ -57,7 +57,7 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - Echo Circuit averaged £2200 revenue per Region for 2019.
 - North West performed best, generating the highest revenue (£5400, 22% of annual revenue) and extraordinarily high AOV for Spring Clean orders (£120). This is to be expected as the company has operated here for the longest time.
 - Other noticeable peaks in revenue are Greater London (£3600, 15% of annual revenue) and West Midlands (£2900, 12% of annual revenue). This is expected as they were the targets of Summer Sale promotion.
-- Without Outlier regions (GL, NW, WM) and promotional purchases, average regional revenue is £1400. Can expect this performance if no promotions or sales in 2020.
+- Without Outlier regions (GL, NW, WM) and promotional purchases, average regional revenue is £1400. Can expect this performance if no promotions in 2020.
 
 ![Revenue per Region](Visualisations/RegRev.PNG)
 ![Sales per Region](Visualisations/RegSales.PNG)
@@ -70,14 +70,16 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 - For April, the promotion generated £300 (14% of April revenue).
 - For May, the promotion generated £770 (26% of May revenue).
 - Noticeable peak in Spring Clean revenue is North West (£370, 2% of annual revenue).
-- North West was the most responsive to promotion by generating £370 (7% of North West revenue). This is to be expected as the company has operated here for the longest time.
+- North West was the most responsive to the promotion by generating £370 (7% of North West revenue). This is to be expected as the company has operated here for the longest time.
 
 ### Summer Sale Promotion Impact
 
 - Summer Sale promotion generated £1300 (6% of annual revenue).
 - For August, the promotion generated £1300 (39% of August revenue). Suggesting sales performance is very responsive to targeted promotions.
-- Noticeable peaks in Summer Sale revenue are West Midlands (£330, 1% of annual revenue) and Greater London (£300, 1% of annual revenue). This is to be expected as these were the target regions of the Summer Sale promotion.
-- West Midlands was very responsive to promotion by generating £330 (11% of West Midlands revenue). This is to be expected as the West Midlands was a target region of the Summer Sale promotion.
+- Promotion generated £630 (47% of all Summer Sale revenue) in target regions (Great London and West Midlands). Suggesting targeted are most responsive to promotions.
+- Noticeable peaks in Summer Sale revenue are West Midlands (£330, 1% of annual revenue) and Greater London (£300, 1% of annual revenue). This is to be expected as these were the target regions of the promotion.
+- West Midlands was very responsive to promotion by generating £330 (11% of West Midlands revenue). This is to be expected as the West Midlands was a target region of the the promotion.
+- East Midlands was surprisingly responsive to Summer Sale promotion generating £200 (12% of East Midlands revenue), despite average performance during the rest of the year.
 
 ### Loyalty Scheme Performance
 
@@ -90,11 +92,46 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 | **2 repeat purchases**  |           6 | 3.6%                         |
 | **3 repeat purchases**  |           3 | 1.8%                         |
 
-- Both loyalty and non-loyalty members exhibit similar behaviours
+- Both loyalty and non-loyalty members exhibit similar behaviours. In particular, loyalty memebers don't spend more than npn-loyalty memebrs per transaction:
+
+![Boxplot and Histogram of Loyalty Purchases](Visualisations/BoxplotHistogramLoyaltyPurchases.png)
+![Boxplot and Histogram of Non-Loyalty Purchases](Visualisations/BoxplotHistogramNonLoyaltyPurchases.png)
 
 
 ## Recommendations
 
+---
+
+### Customer Growth and Retention
+
+- **Boost Repeat Purchases:** Target single-purchase customers with personalised re-engagement campaigns and introduce tiered rewards within the loyalty program to incentivize repeat purchases and improve retention.
+- **Revitalize Customer Acquisition:** Expand acquisition channels to include social media, influencer partnerships, and affiliate programs. Refine Echo Circuit's messaging to re-engage past customers and attract new ones.
+- **Leverage Core Customer Insights:** Analyse behaviors and preferences of repeat customers to enhance loyalty campaigns. Introduce referral incentives to drive word-of-mouth growth and increase new customer acquisition from existing networks.
+
+---
+
+### Regional Growth Strategies
+
+- **Focus on High-Performing Regions:** Continue allocating resources to the North West with regionalised marketing and product availability strategies tailored to local preferences.
+- **Focus on High-Potential Regions:** Consider allocating resources to East Midlands  with regionalised marketing and product availability strategies tailored to local preferences.
+
+---
+
+### Loyalty Scheme Enhancements
+
+- **Enhance Loyalty Onboarding:** Implement targeted onboarding campaigns with first-purchase discounts or early access offers. Tiered rewards will further incentivize repeat purchases and strengthen customer loyalty.
+- **Data-Driven Program Refinement:** Continuously monitor loyalty metrics to refine program offerings based on data, ensuring sustained engagement and effectiveness.
+
+---
+
+### 2020 Promotion Suggestions
+
+Analysis suggested the Summer Sale out performed Spring Clean sale. Meaning, a targeted promotion is the best course of action for 2020.
+
+- **Target Regions:** Target North West and East Midlands as they were highly responsive to promotions.
+- **Promotion Months:** There is no reason to suggest a May or August promotion won't be as successful. However, analysis suggests November promotions shows promise as this month had the highest number of orders. 
+
+---
 
 ## Data Integrity
 
