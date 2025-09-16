@@ -160,7 +160,7 @@ Analysis suggested the Summer Sale outperformed the Spring Clean sale. Meaning, 
 
 ### Solutions & Improvements
 
-Data Cleaning (click [here](Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) for SAS/SQL data cleaning code):
+Data Cleaning (click [here](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) for SAS/SQL data cleaning code):
 - Duplicate records were removed.
 - Duplicate **`trans_id`**'s were kept as they seem to be genuinely distinct transactions, but an error caused duplication.
 - Unfortunately, the issues with **`loyalty_id`** and **`loyalty`** columns can't be fixed. To remedy this, I will need to discuss with stakeholders and have access to data before data migration. For the time being, I will assume **`loyalty_id`**'s aren't corrupted and trust the **`loyalty`** statuses as they are.
