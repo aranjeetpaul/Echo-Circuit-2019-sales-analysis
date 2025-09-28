@@ -6,23 +6,27 @@
 
 ## Table of Contents
 
-- [Project Background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#project-background)
-- [Executive Summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#executive-summary)
-- [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#insights-deep-dive)
-  - [Monthly Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#monthly-trends)
-  - [Regional Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-trends)
-  - [Spring Clean Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#spring-clean-promotion-impact)
-  - [Summer Sale Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#summer-sale-promotion-impact)
-  - [Loyalty Scheme Performance](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-performance)
-- [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#recommendations)
-- [Data Integrity](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#data-integrity)
-  - [Issues](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#issues)
-  - [Solutions & Improvements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#solutions--improvements)
-- [Appendix](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#appendix)
+1. [Project Background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#project-background)
+2. [Executive Summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#executive-summary)
+3. [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#insights-deep-dive)
+    - [Monthly Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#monthly-trends)
+    - [Regional Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-trends)
+    - [Spring Clean Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#spring-clean-promotion-impact)
+    - [Summer Sale Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#summer-sale-promotion-impact)
+    - [Loyalty Scheme Performance](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-performance)
+4. [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#recommendations)
+    - [Customer Growth and Retention](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#customer-growth-and-retention)
+    - [Regional Growth Strategies](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-growth-strategies)
+    - [Loyalty Scheme Enhancements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-enhancements)
+    - [2020 Promotion Suggestions](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#2020-promotion-suggestions)
+5. [Data Integrity](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#data-integrity)
+    - [Issues](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#issues)
+    - [Solutions & Improvements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#solutions--improvements)
+6. [Appendix](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#appendix)
 
 ---
 
-## Project Background
+## 1. Project Background
 
 Echo Circuit, an emerging e-commerce company launched in North West, England, specialising in selling electronic components for home appliances, made a decision to promote the company in other regions in 2019.  Their strategy was: In April and May, they had a "Spring Clean" sale, which was promoted nationwide. Whilst in August, a similar budget for a "Summer Sale" promotion was spent, but targeted at the Greater London and West Midlands regions. The company has established a loyalty scheme giving the customer free delivery. They highly value loyalty members as they believe they spend a greater amount per transaction and carry out many repeat purchases.
 
@@ -30,11 +34,11 @@ I'm partnering with the Head of Operations to extract insights and deliver recom
 
 **Note:** The business migrated historical data over to a new CRM system at the end of February. Several users have expressed concern over data integrity. I will also help locate errors and suggest fixes.
 
-## Executive Summary
+## 2. Executive Summary
 
 Echo Circuit sales analysis of transactions across 2019 shows that both Spring Clean sale and Summer Sale promotions were successful in increasing company revenue, with monthly revenue stabilising at around £1900. Spring Clean sales accounted for 4% of annual revenue, and Summer Sale sales accounted for 6% of annual revenue. Standout months were May, August and November accounting for 39% of annual revenue. With standout Regions: Greater London, West Midlands and North West accounting for 49% of annual revenue. Echo Circuit can maximise 2020 revenue by holding a promotion during May, August and/or November targeted at the North West, West Midlands and/or East Midlands. Echo Circuit's Loyalty Scheme proves to be unsuccessful at increasing repeat purchases and AOV. Much improvement needs to be done to improve Echo Circuit's data integrity. Echo Circuit can benefit from personalised campaigns, tiered rewards, a referral scheme and a data-driven culture (please see [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#recommendations) section for more detail).
 
-## Insights Deep-Dive
+## 3. Insights Deep-Dive
 
 ### Monthly Trends
 
@@ -96,7 +100,7 @@ Click [here](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/bl
 ![Boxplot and Histogram of Non-Loyalty Purchases](Visualisations/BoxplotHistogramNonLoyaltyPurchases.png)
 
 
-## Recommendations
+## 4. Recommendations
 
 ---
 
@@ -131,7 +135,7 @@ Analysis suggested the Summer Sale outperformed the Spring Clean sale. Meaning, 
 
 ---
 
-## Data Integrity
+## 5. Data Integrity
 
 ### Issues
 - Duplicate records exist:
@@ -178,7 +182,7 @@ Data migration issues can be improved by:
 
 ---
 
-## Appendix
+## 6. Appendix
 
 - See the raw and cleaned data in the [Data](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/tree/main/Data) folder.
 - See SAS/SQL code used to examine and clean the data in the [Data Cleaning](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Data%20Cleaning.sas) file.
