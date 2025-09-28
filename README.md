@@ -172,7 +172,7 @@ Data migration issues can be improved by:
 - Using Data Stewards – trusted experts to oversee planning and implementation of migration.
 - Using “migration simulations” – test migration on a subset of data first.
 - Validating data before and after migration.
-- Using clear user interface for customers to avoid human error
+- Using clear user interface for customers to avoid human error.
 - Promoting a data-driven culture – internal training, guidelines and best practices training for all employees.
 - Investigate failures’ root cause (human error, too many data sources, etc.).
 
