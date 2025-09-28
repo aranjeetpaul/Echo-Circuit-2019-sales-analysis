@@ -124,8 +124,8 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 
 Analysis suggested the Summer Sale outperformed the Spring Clean sale. Meaning, a targeted promotion is the best course of action for 2020.
 
-- **Target Regions:** Target North West, West Midlands or East Midlands as they were highly responsive to promotions.
-- **Promotion Months:** There is no reason to suggest a May or August promotion won't be as successful. However, analysis suggests a November promotion shows promise, as this month had the highest number of orders.
+- **Target Regions:** Target North West, West Midlands and/or East Midlands as they were highly responsive to promotions.
+- **Promotion Months:** There is no reason to suggest a May or August promotion won't repeat 2019's success. However, analysis suggests a November promotion shows promise, as this month had the highest number of orders.
 
 ---
 
