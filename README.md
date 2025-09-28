@@ -79,7 +79,7 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 
 ### Loyalty Scheme Performance
 
-Click [here](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb) for Pyhton Notebook in depth analysis code.
+Click [here](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/Data%20Cleaning%20%26%20Analysis/Loyalty%20Scheme%20Analysis.ipynb) for Python Notebook of loyalty scheme analysis.
 
 - Most loyalty members don't carry out repeat purchases:
 
