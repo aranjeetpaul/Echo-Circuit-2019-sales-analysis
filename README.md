@@ -53,7 +53,7 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 - Echo Circuit averaged £2200 revenue per Region for 2019.
 - North West performed best, generating the highest revenue (£5400, 22% of annual revenue) and extraordinarily high AOV for Spring Clean orders (£120). This is to be expected as the company has operated here for the longest time.
 - Other noticeable peaks in revenue are Greater London (£3600, 15% of annual revenue) and West Midlands (£2900, 12% of annual revenue). This is expected as they were the targets of the Summer Sale promotion.
-- Without Outlier regions (GL, NW, WM) and promotional purchases, average regional revenue is £1400. Can expect this performance if no promotions in 2020.
+- Without Outlier regions (GL, NW, WM) and promotional purchases, average regional revenue is £1400. Can expect this performance in 2020 if no promotions are held.
 
 ![Revenue per Region](Visualisations/RegRev.PNG)
 ![Sales per Region](Visualisations/RegSales.PNG)
