@@ -72,7 +72,7 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 
 - Summer Sale promotion generated £1300 (6% of annual revenue).
 - For August, the promotion generated £1300 (39% of August revenue). Suggesting sales performance is very responsive to targeted promotions.
-- Promotion generated £630 (47% of all Summer Sale revenue) in target regions (Greater London and West Midlands). Suggesting targeted regions are most responsive to promotions.
+- Target regions (Greater London and West Midlands) generated £630 in Summer Sale purchases (47% of all Summer Sale revenue). Suggesting targeted regions are most responsive to promotions.
 - Noticeable peaks in Summer Sale revenue are West Midlands (£330, 1% of annual revenue) and Greater London (£300, 1% of annual revenue). This is to be expected as these were the target regions of the promotion.
 - West Midlands was very responsive to promotion by generating £330 (11% of West Midlands revenue). This is to be expected as the West Midlands was a target region of the promotion.
 - East Midlands was surprisingly responsive to the Summer Sale promotion, generating £200 (12% of East Midlands revenue), despite average performance during the rest of the year.
