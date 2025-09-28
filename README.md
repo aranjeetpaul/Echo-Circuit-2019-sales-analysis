@@ -42,7 +42,7 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 - Sales surge after February, with an average monthly revenue increasing by 340% (£520 to £2300).
 - Noticeable peak in revenue for November (£2900, 12% of annual revenue) due to slightly higher than normal number of transactions (57, 17% of annual orders) and AOV (£52.00). Suggesting seasonality, possibly certain appliances are more likely to break in the winter.
 - Noticeable peak in revenue for May (£3000, 12% of annual revenue) and August (£3500, 15% of annual revenue). Suggesting the efficacy of the company's promotions.
-- Without Outlier months (Jan, Feb, Nov) and promotional purchases, the average monthly revenue is £1900. Can expect this performance if no promotions in 2020.
+- Without Outlier months (Jan, Feb, Nov) and promotional purchases, the average monthly revenue is £1900. Can expect this performance in 2020 if no promotions are held.
 
 ![Revenue per Month](Visualisations/MonRev.PNG)
 ![Sales per Month](Visualisations/MonSales.PNG)
