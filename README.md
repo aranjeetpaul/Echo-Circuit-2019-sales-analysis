@@ -6,23 +6,23 @@
 
 ## Table of Contents
 
-1. [Project Background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#project-background)
-2. [Executive Summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#executive-summary)
-3. [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#insights-deep-dive)
+1. [Project Background](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#1-project-background)
+2. [Executive Summary](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#2-executive-summary)
+3. [Insights Deep-Dive](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#3-insights-deep-dive)
     - [Monthly Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#monthly-trends)
     - [Regional Trends](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-trends)
     - [Spring Clean Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#spring-clean-promotion-impact)
     - [Summer Sale Promotion Impact](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#summer-sale-promotion-impact)
     - [Loyalty Scheme Performance](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-performance)
-4. [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#recommendations)
+4. [Recommendations](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#4-recommendations)
     - [Customer Growth and Retention](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#customer-growth-and-retention)
     - [Regional Growth Strategies](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#regional-growth-strategies)
     - [Loyalty Scheme Enhancements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#loyalty-scheme-enhancements)
     - [2020 Promotion Suggestions](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#2020-promotion-suggestions)
-5. [Data Integrity](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#data-integrity)
+5. [Data Integrity](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#5-data-integrity)
     - [Issues](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#issues)
     - [Solutions & Improvements](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#solutions--improvements)
-6. [Appendix](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#appendix)
+6. [Appendix](https://github.com/aranjeetpaul/Echo-Circuit-2019-sales-analysis/blob/main/README.md#6-appendix)
 
 ---
 
