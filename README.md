@@ -101,7 +101,7 @@ Echo Circuit sales analysis of transactions across 2019 shows that both Spring C
 ### Customer Growth and Retention
 
 - **Boost Repeat Purchases:** Target single-purchase customers with personalised re-engagement campaigns and introduce tiered rewards within the Loyalty Scheme to incentivise repeat purchases and improve retention.
-- **Revitalize Customer Acquisition:** Expand acquisition channels to include social media, influencer partnerships, and affiliate programs. Refine Echo Circuit's messaging to re-engage past customers and attract new ones.
+- **Revitalise Customer Acquisition:** Expand acquisition channels to include social media, influencer partnerships, and affiliate programs. Refine Echo Circuit's messaging to re-engage past customers and attract new ones.
 - **Leverage Core Customer Insights:** Analyse behaviors and preferences of repeat customers to enhance Loyalty Scheme. Introduce referral incentives to drive word-of-mouth growth and increase new customer acquisition from existing networks.
 
 ---
